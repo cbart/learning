@@ -1,7 +1,7 @@
 lsi: false
 safe: true
-domain: cbart-learning.github.io
-url: https://cbart-learning.github.io
+domain: learning.cbart.github.io
+url: https://learning.cbart.github.io
 source: /
 incremental: false
 highlighter: rouge
